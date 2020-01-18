@@ -1,0 +1,7 @@
+C:\Users\jacob\source\repos\incometaxcalc\incometaxcalc\bin\Debug\incometaxcalc.exe.config
+C:\Users\jacob\source\repos\incometaxcalc\incometaxcalc\bin\Debug\incometaxcalc.exe
+C:\Users\jacob\source\repos\incometaxcalc\incometaxcalc\bin\Debug\incometaxcalc.pdb
+C:\Users\jacob\source\repos\incometaxcalc\incometaxcalc\obj\Debug\incometaxcalc.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\incometaxcalc\incometaxcalc\obj\Debug\incometaxcalc.exe
+C:\Users\jacob\source\repos\incometaxcalc\incometaxcalc\obj\Debug\incometaxcalc.pdb
+C:\Users\jacob\source\repos\incometaxcalc\incometaxcalc\obj\Debug\incometaxcalc.csprojAssemblyReference.cache
